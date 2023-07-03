@@ -1,0 +1,110 @@
+[
+  {
+    "name": "ТС#01",
+    "driverName": "Durel",
+    "category": "Пассажирский",
+    "categoryId": "passenger",
+    "lat": 56.1329158,
+    "lon": 47.1555526,
+    "phone": "+79523131019"
+  },
+  {
+    "name": "ТС#02",
+    "driverName": "Bienvenu",
+    "category": "Пассажирский",
+    "categoryId": "passenger",
+    "lat": 56.1314658,
+    "lon": 47.1558779,
+    "phone": "+79523131019"
+  },
+  {
+    "name": "ТС#03",
+    "driverName": "Valdmir",
+    "category": "Грузовой",
+    "categoryId": "freight",
+    "lat": 56.129372226803866,
+    "lon": 47.162058342990534,
+    "phone": "+79523131019"
+  },
+  {
+    "name": "ТС#04",
+    "driverName": "Alexey",
+    "category": "Грузовой",
+    "categoryId": "freight",
+    "lat": 56.132518493020285,
+    "lon": 47.162404671516114,
+    "phone": "+79523131019"
+  },
+  {
+    "name": "ТС#05",
+    "driverName": "Maria",
+    "category": "Пассажирский",
+    "categoryId": "passenger",
+    "lat": 56.13920835241441,
+    "lon": 47.167808396244794,
+    "phone": "+79523131019"
+  },
+  {
+    "name": "ТС#06",
+    "driverName": "Valentina",
+    "category": "Пассажирский",
+    "categoryId": "passenger",
+    "lat": 56.14552970040151,
+    "lon": 47.18104425954297,
+    "phone": "+79523131019"
+  },
+  {
+    "name": "ТС#07",
+    "driverName": "Sasha",
+    "category": "Грузовой",
+    "categoryId": "freight",
+    "lat": 56.138380765915834,
+    "lon": 47.195837900703935,
+    "phone": "+79523131019"
+  },
+  {
+    "name": "ТС#08",
+    "driverName": "Locha",
+    "category": "Спецтранспорт",
+    "categoryId": "special",
+    "lat": 56.13543919032911,
+    "lon": 47.240369512113034,
+    "phone": "+79523131019"
+  },
+  {
+    "name": "ТС#09",
+    "driverName": "Vania",
+    "category": "Спецтранспорт",
+    "categoryId": "special",
+    "lat": 56.1254201888161,
+    "lon": 47.233421526997226,
+    "phone": "+79523131019"
+  },
+  {
+    "name": "ТС#10",
+    "driverName": "Rodhy",
+    "category": "Спецтранспорт",
+    "categoryId": "special",
+    "lat": 56.12256301399444,
+    "lon": 47.267508181497746,
+    "phone": "+79523131019"
+  },
+  {
+    "name": "ТС#11",
+    "driverName": "Vova",
+    "category": "Грузовой",
+    "categoryId": "freight",
+    "lat": 56.10735643592881,
+    "lon": 47.28048095979158,
+    "phone": "+79523131019"
+  },
+  {
+    "name": "ТС#12",
+    "driverName": "Averl",
+    "category": "Спецтранспорт",
+    "categoryId": "special",
+    "lat": 56.137829311935874,
+    "lon": 47.2778620423366,
+    "phone": "+79523131019"
+  }
+]

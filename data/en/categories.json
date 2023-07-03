@@ -1,0 +1,14 @@
+[
+  {
+    "name": "freight transport",
+    "id": "freight"
+  },
+  {
+    "name": "Passenger transport",
+    "id": "passenger"
+  },
+  {
+    "name": "Custom transport",
+    "id": "special"
+  }
+]
